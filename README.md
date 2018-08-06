@@ -1,7 +1,8 @@
 # BodgeWatch
 arduino keypad controlled stopwatch/timer
 
-I made this simple project during summer break with limited hardware I had with me (Arduino Uno, stepper motor, 4x4 keypad)
+I made this simple project during summer break with limited hardware I had with me (Arduino Uno, 2BYJ-48 5V stepper motor, 4x4 keypad)
+Requires Keypad and Stepper library to be installed (Stepper is usually installed by default)
 
 ![BodgeWatch](picture.jpg)
 
