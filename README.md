@@ -17,11 +17,15 @@ If wrong key is pressed user can use R key to reset the input
 
 ## Keypad map
 
-
 ```
++---+---+---+---+
 | 1 | 2 | 3 | 4 |
++---+---+---+---+
 | 5 | 6 | 7 | 8 |
++---+---+---+---+
 | 9 | 0 | R | X |
++---+---+---+---+
 | F | S | T | E |
++---+---+---+---+
 
 ```
