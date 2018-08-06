@@ -15,5 +15,17 @@ Activated by pressing T key followed by number of seconds you want handle to spi
 
 If wrong key is pressed user can use R key to reset the input
 
-TODO: add pictures/fritzing schematics
+## Keypad map
+
++---+---+---+---+
+| 1 | 2 | 3 | 4 |
++---+---+---+---+
+| 5 | 6 | 7 | 8 |
++---+---+---+---+
+| 9 | 0 | R | X |
++---+---+---+---+
+| F | S | T | E |
++---+---+---+---+
+
+
 
