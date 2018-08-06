@@ -5,7 +5,6 @@
  * Hardware:
  *     28BYJ-48 5v with ULN2003 driver board
  *     4*4 keypad
- *     pushbutton
  * Usage:
  *     select mode then number of seconds to run and press E
  *     if you make an error in typing R will clear the input
