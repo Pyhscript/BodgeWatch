@@ -1,7 +1,7 @@
 /*BodgeWatch
- * 2018 - Benjamin Nadarevič
+ * 2018 - Benjamin Nadarević
  * Description:
- *    Simple stopwatch/timer/clock
+ *    Simple stopwatch/timer
  * Hardware:
  *     28BYJ-48 5v with ULN2003 driver board
  *     4*4 keypad
@@ -86,7 +86,7 @@ void startMotor()
   
   
   if(mode=='S'){//stopwatch mode
-    
+    revolutions=0; //reset revolution counter
     while(keypad.getKey()!='X'){
       myStepper.step(1);
       steps++;
