@@ -13,7 +13,7 @@ Activated by pressing T key followed by number of seconds you want handle to spi
 
 ## Reset
 
-If wrong key is pressed user can R key to reset the input
+If wrong key is pressed user can use R key to reset the input
 
 TODO: add pictures/fritzing schematics
 
