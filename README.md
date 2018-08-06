@@ -3,6 +3,8 @@ arduino keypad controlled stopwatch/timer
 
 I made this simple project during summer break with limited hardware I had with me (Arduino Uno, stepper motor, 4x4 keypad)
 
+![BodgeWatch](picture.jpg)
+
 ## Stopwatch mode
 
 Activated by pressing S key followed by E key, motor will spin the handle(in my case wire I tied around the shaft) until X is pressed. If F is pressed after motor is stopped builtin LED will blink number of times equal to full revolutions of the handle.
